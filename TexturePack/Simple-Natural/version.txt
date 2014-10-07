@@ -1,57 +1,46 @@
 [
 {
-    "version": "3.0 Lite",
-    "info": "0.9.0 지원",
-    "download": "http://dropbox.com/~~"
+    "version": "3.2 Lite",
+    "info": "정기 업데이트 = Project Butter =
+    "info2": "레일/사다리 수정, 버그수정",
+    "info3": "화로/창고 인벤토리수정, 인벤토리/배경 GUI 수정,\n체력바 수정, 갑옷바 수정 카트 수정",
+    "download": "http://dropbox.com/~~"
 },
 {
-    "version": "3.0 Lite K",
-    "info": "0.9.0 지원",
-    "download": "http://dropbox.com/~~"
+    "version": "3.2 Lite K",
+    "info": "정기 업데이트",
+    "info2": "3.2 Lite 버전의 해와달 실사",
+    "download": "http://dropbox.com/~~"
 },
 {
-    "version": "3.1 Lite",
-    "info": "정기 업데이트 코블스톤,모스스톤 수정, 석재벽돌 수정, 해바라기 수정, 투명GUI 수정, 도구 아이템이미지 수정, 체력바 수정, 기타버그 수정",
-    "download": "http://dropbox.com/~~"
+    "version": "3.2 Pro",
+    "info": "정기 업데이트",
+    "info2": "3.2 Lite 버전의 블럭 밝기도 상승",
+    "download": "http://dropbox.com/~~"
 },
 {
-    "version": "3.1 Lite K",
-    "info": "정기 업데이트",
-    "download": "http://dropbox.com/~~"
+    "version": "3.2 Pro K",
+    "info": "정기 업데이트",
+    "info2": "3.2 Pro 버전의 해와달 실사",
+    "download": "http://dropbox.com/~~"
 },
 {
-    "version": "3.2 Lite",
-    "info": "정기 업데이트 = Project Butter = 상단바 GUI 수정, 옵션 토글버튼 수정, 인벤토리 왼쪽버튼 수정, 창고화로 인벤토리/배경 GUI 수정, 카트/레일/사다리 수정, 버그 수정",
-    "download": "http://dropbox.com/~~"
+    "version": "3.3 Lite",
+    "info": "정기 업데이트",
+    "info2": " 광물블럭 밝기수정, 석영블럭 밝기수정,\n파워레일 수정, 단단한얼음 수정, 버그수정",
+    "info3": "블럭 부수는 금 수정, 이펙트 수정,\n토글버튼 수정, 갑옷바 수정, 마인카트 수정",
+    "download": "http://dropbox.com/~~"
 },
 {
-    "version": "3.2 Lite K",
-    "info": "정기 업데이트+해,달 패치",
-    "download": "http://dropbox.com/~~"
+    "version": "3.3 HD Lite",
+    "info": "정기 업데이트"
+    "info2": "3.3 Lite 버전의 인벤토리 버튼화, 갑옷 아이템 이미지 수정",
+    "download": "http://dropbox.com/~~"
 },
 {
-    "version": "3.2 Pro",
-    "info": "정기 업데이트+밝기 패치",
-    "download": "http://dropbox.com/~~"
-},
-{
-    "version": "3.2 Pro K",
-    "info": "정기 업데이트+밝기 패치+해,달 패치",
-    "download": "http://dropbox.com/~~"
-},
-{
-    "version": "3.3 Lite",
-    "info": "정기 업데이트 = Project HD = 광물블럭 밝기수정, 석영블럭 밝기수정, 마인카트/레일 수정, 단단한얼음 수정, 블럭 부수는 금 수정, 이펙트 수정, 나뭇잎 밝기 수정, 토글버튼 수정, 버그 수정",
-    "download": "http://dropbox.com/~~"
-},
-{
-    "version": "3.3 HD Lite",
-    "info": "정기 업데이트+인벤토리 패치+아이템 패치",
-    "download": "http://dropbox.com/~~"
-},
-{
-    "version": "3.3 HD Shader",
-    "info": "정기 업데이트+쉐이더 구체화",
-    "download": "http://dropbox.com/~~"
+    "version": "3.3 HD Shader",
+    "info": "정기 업데이트",
+    "info2": "3.3 Lite 버전의 블럭을 PC쉐이더와 흡사하게 변경",
+    "download": "http://dropbox.com/~~"
 }
 ]
