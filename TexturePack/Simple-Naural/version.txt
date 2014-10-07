@@ -1,0 +1,77 @@
+[
+{
+    "version": "3.0 Lite",
+    "info": "0.9.0 지원",
+    "download": "http://dropbox.com/~~"
+}
+]
+[
+{
+    "version": "3.0 Lite K",
+    "info": "0.9.0 지원",
+    "download": "http://dropbox.com/~~"
+}
+]
+[
+{
+    "version": "3.1 Lite",
+    "info": "정기 업데이트",
+    "download": "http://dropbox.com/~~"
+}
+]
+[
+{
+    "version": "3.1 Lite K",
+    "info": "정기 업데이트",
+    "download": "http://dropbox.com/~~"
+}
+]
+[
+{
+    "version": "3.2 Lite",
+    "info": "정기 업데이트",
+    "download": "http://dropbox.com/~~"
+}
+]
+[
+{
+    "version": "3.2 Lite K",
+    "info": "정기 업데이트+해,달 패치",
+    "download": "http://dropbox.com/~~"
+}
+]
+[
+{
+    "version": "3.2 Pro",
+    "info": "정기 업데이트+밝기 패치",
+    "download": "http://dropbox.com/~~"
+}
+]
+[
+{
+    "version": "3.2 Pro K",
+    "info": "정기 업데이트+밝기 패치+해,달 패치",
+    "download": "http://dropbox.com/~~"
+}
+]
+[
+{
+    "version": "3.3 Lite",
+    "info": "정기 업데이트",
+    "download": "http://dropbox.com/~~"
+}
+]
+[
+{
+    "version": "3.3 HD Lite",
+    "info": "정기 업데이트+인벤토리 패치+아이템 패치",
+    "download": "http://dropbox.com/~~"
+}
+]
+[
+{
+    "version": "3.3 HD Shader",
+    "info": "정기 업데이트+쉐이더 구체화",
+    "download": "http://dropbox.com/~~"
+}
+]
