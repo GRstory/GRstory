@@ -1,3 +1,4 @@
+
 [
 {
     "version": "3.2 Lite",
@@ -37,7 +38,11 @@
     "info2": " 광물블럭 밝기수정, 석영블럭 밝기수정,\n파워레일 수정, 단단한얼음 수정, 버그수정",
     "info3": "마인카트 수정, 염료 수정",
     "info4": "블럭 부수는 금 수정, 이펙트 수정,\n토글버튼 수정, 갑옷바 수정, 인벤토리 수정",
-    "download": "https://www.dropbox.com/s/i2o0qna3rba9vbv/3.3%20LITE%20%5BGRstory%5D.zip?dl=1"
+    "download": "https://www.dropbox.com/s/i2o0qna3rba9vbv/3.3%20LITE%20%5BGRstory%5D.zip?dl=1",
+    "tag": {
+    "latestVersion": true,
+    "versionCode": " "
+}
 },
 {
     "version": "3.3 HD Lite",
@@ -45,7 +50,11 @@
     "info2": " 광물블럭 밝기수정, 석영블럭 밝기수정,\n파워레일 수정, 단단한얼음 수정, 버그수정",
     "info3": "마인카트 수정, 염료 수정",
     "info4": "블럭 부수는 금 수정, 이펙트 수정,\n토글버튼 수정, 갑옷바 수정, 인벤토리 수정",
-    "download": "https://www.dropbox.com/s/vbidymu730hyjuk/3.3%20HD%20LITE%20%5BGRstory%5D.zip?dl=1"
+    "download": "https://www.dropbox.com/s/vbidymu730hyjuk/3.3%20HD%20LITE%20%5BGRstory%5D.zip?dl=1",
+"tag": {
+    "latestVersion": true,
+    "versionCode": " "
+}
 },
 {
     "version": "3.3 HD Shader β",
@@ -54,6 +63,9 @@
     "info3": "마인카트 수정, 염료 수정",
     "info4": "블럭 부수는 금 수정, 이펙트 수정,\n토글버튼 수정, 갑옷바 수정, 인벤토리 수정",
     "download": "https://www.dropbox.com/s/jllmzbq6fblg9vn/3.3%20HD%20Shader%20%5BGRstory%5D.zip?dl=1",
-    "latestVersion": true
+    "tag": {
+    "latestVersion": Fail,
+    "versionCode": "β"
+}
 }
 ]
