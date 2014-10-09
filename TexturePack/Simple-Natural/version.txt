@@ -1,71 +1,62 @@
-
-[
-{
-    "version": "3.2 Lite",
-    "info": "정기 업데이트",
-    "info2": "레일/사다리 수정, 유리 수정, 버그수정",
-    "info3": "금 도구 수정, 버그 수정",
-    "info4": "화로/창고 인벤토리수정, 인벤토리/배경 GUI 수정, 체력바 수정, 갑옷바 수정 카트 수정",
-    "download": "https://www.dropbox.com/s/6po5sqx52kcdyon/3_2%20LITE%20%5BGRstory%5D.zip?dl=1"
-},
-{
-    "version": "3.2 Lite K",
-    "info": "정기 업데이트, 해달 실사",
-    "info2": "레일/사다리 수정, 유리 수정, 버그수정",
-    "info3": "금 도구 수정, 버그 수정",
-    "info4": "화로/창고 인벤토리수정, 인벤토리/배경 GUI 수정, 체력바 수정, 갑옷바 수정 카트 수정",
-    "download": "https://www.dropbox.com/s/7j0fp331jn5noki/3_2%20LITE%20K%20%5BGRstory%5D.zip?dl=1"
-},
-{
-    "version": "3.2 Pro",
-    "info": "정기 업데이트, 블럭밝기도 상승",
-    "info2": "레일/사다리 수정, 유리 수정, 버그수정",
-    "info3": "금 도구 수정, 버그 수정",
-    "info4": "화로/창고 인벤토리수정, 인벤토리/배경 GUI 수정, 체력바 수정, 갑옷바 수정 카트 수정",
-    "download": "https://www.dropbox.com/s/ki3eglyxvay9xyx/3_2%20PRO%20%5BGRstory%5D.zip?dl=1"
-},
-{
-    "version": "3.2 Pro K",
-    "info": "정기 업데이트, 블럭 밝기도 상승,\n해달 실사",
-    "info2": "레일/사다리 수정, 유리 수정, 버그수정",
-    "info3": "금 도구 수정, 버그 수정",
-    "info4": "화로/창고 인벤토리수정, 인벤토리/배경 GUI 수정, 체력바 수정, 갑옷바 수정 카트 수정",
-    "download": "https://www.dropbox.com/s/n4vm216wsckuzhe/3_2%20PRO%20K%20%5BGRstory%5D.zip?dl=1"
-},
-{
-    "version": "3.3 Lite",
-    "info": "정기 업데이트",
-    "info2": " 광물블럭 밝기수정, 석영블럭 밝기수정,\n파워레일 수정, 단단한얼음 수정, 버그수정",
-    "info3": "마인카트 수정, 염료 수정",
-    "info4": "블럭 부수는 금 수정, 이펙트 수정,\n토글버튼 수정, 갑옷바 수정, 인벤토리 수정",
-    "download": "https://www.dropbox.com/s/i2o0qna3rba9vbv/3.3%20LITE%20%5BGRstory%5D.zip?dl=1",
-    "tag": {
-    "latestVersion": true,
-    "versionCode": " "
-}
-},
-{
-    "version": "3.3 HD Lite",
-    "info": "정기 업데이트, 아이템 쉐이더,\n인벤토리 추가수정",
-    "info2": " 광물블럭 밝기수정, 석영블럭 밝기수정,\n파워레일 수정, 단단한얼음 수정, 버그수정",
-    "info3": "마인카트 수정, 염료 수정",
-    "info4": "블럭 부수는 금 수정, 이펙트 수정,\n토글버튼 수정, 갑옷바 수정, 인벤토리 수정",
-    "download": "https://www.dropbox.com/s/vbidymu730hyjuk/3.3%20HD%20LITE%20%5BGRstory%5D.zip?dl=1",
-"tag": {
-    "latestVersion": true,
-    "versionCode": " "
-}
-},
-{
-    "version": "3.3 HD Shader β",
-    "info": "정기 업데이트, PC쉐이더 구현 테스트중",
-    "info2": " 광물블럭 밝기수정, 석영블럭 밝기수정,\n파워레일 수정, 단단한얼음 수정, 버그수정",
-    "info3": "마인카트 수정, 염료 수정",
-    "info4": "블럭 부수는 금 수정, 이펙트 수정,\n토글버튼 수정, 갑옷바 수정, 인벤토리 수정",
-    "download": "https://www.dropbox.com/s/jllmzbq6fblg9vn/3.3%20HD%20Shader%20%5BGRstory%5D.zip?dl=1",
-    "tag": {
-    "latestVersion": Fail,
-    "versionCode": "β"
-}
-}
+ [
+    {
+        "version": "3.2 Lite",
+        "info": "정기 업데이트",
+        "info2": "레일/사다리 수정, 유리 수정, 버그수정",
+        "info3": "금 도구 수정, 버그 수정",
+        "info4": "화로/창고 인벤토리수정, 인벤토리/배경 GUI 수정, 체력바 수정, 갑옷바 수정 카트 수정",
+        "download": "https://www.dropbox.com/s/6po5sqx52kcdyon/3_2%20LITE%20%5BGRstory%5D.zip?dl=1"
+    }, {
+        "version": "3.2 Lite K",
+        "info": "정기 업데이트, 해달 실사",
+        "info2": "레일/사다리 수정, 유리 수정, 버그수정",
+        "info3": "금 도구 수정, 버그 수정",
+        "info4": "화로/창고 인벤토리수정, 인벤토리/배경 GUI 수정, 체력바 수정, 갑옷바 수정 카트 수정",
+        "download": "https://www.dropbox.com/s/7j0fp331jn5noki/3_2%20LITE%20K%20%5BGRstory%5D.zip?dl=1"
+    }, {
+        "version": "3.2 Pro",
+        "info": "정기 업데이트, 블럭밝기도 상승",
+        "info2": "레일/사다리 수정, 유리 수정, 버그수정",
+        "info3": "금 도구 수정, 버그 수정",
+        "info4": "화로/창고 인벤토리수정, 인벤토리/배경 GUI 수정, 체력바 수정, 갑옷바 수정 카트 수정",
+        "download": "https://www.dropbox.com/s/ki3eglyxvay9xyx/3_2%20PRO%20%5BGRstory%5D.zip?dl=1"
+    }, {
+        "version": "3.2 Pro K",
+        "info": "정기 업데이트, 블럭 밝기도 상승,\n해달 실사",
+        "info2": "레일/사다리 수정, 유리 수정, 버그수정",
+        "info3": "금 도구 수정, 버그 수정",
+        "info4": "화로/창고 인벤토리수정, 인벤토리/배경 GUI 수정, 체력바 수정, 갑옷바 수정 카트 수정",
+        "download": "https://www.dropbox.com/s/n4vm216wsckuzhe/3_2%20PRO%20K%20%5BGRstory%5D.zip?dl=1"
+    }, {
+        "version": "3.3 Lite",
+        "info": "정기 업데이트",
+        "info2": " 광물블럭 밝기수정, 석영블럭 밝기수정,\n파워레일 수정, 단단한얼음 수정, 버그수정",
+        "info3": "마인카트 수정, 염료 수정",
+        "info4": "블럭 부수는 금 수정, 이펙트 수정,\n토글버튼 수정, 갑옷바 수정, 인벤토리 수정",
+        "download": "https://www.dropbox.com/s/i2o0qna3rba9vbv/3.3%20LITE%20%5BGRstory%5D.zip?dl=1",
+        "tag": {
+            "latestVersion": true
+        }
+    }, {
+        "version": "3.3 HD Lite",
+        "info": "정기 업데이트, 아이템 쉐이더,\n인벤토리 추가수정",
+        "info2": " 광물블럭 밝기수정, 석영블럭 밝기수정,\n파워레일 수정, 단단한얼음 수정, 버그수정",
+        "info3": "마인카트 수정, 염료 수정",
+        "info4": "블럭 부수는 금 수정, 이펙트 수정,\n토글버튼 수정, 갑옷바 수정, 인벤토리 수정",
+        "download": "https://www.dropbox.com/s/vbidymu730hyjuk/3.3%20HD%20LITE%20%5BGRstory%5D.zip?dl=1",
+        "tag": {
+            "latestVersion": true
+        }
+    }, {
+        "version": "3.3 HD Shader",
+        "info": "정기 업데이트, PC쉐이더 구현 테스트중",
+        "info2": " 광물블럭 밝기수정, 석영블럭 밝기수정,\n파워레일 수정, 단단한얼음 수정, 버그수정",
+        "info3": "마인카트 수정, 염료 수정",
+        "info4": "블럭 부수는 금 수정, 이펙트 수정,\n토글버튼 수정, 갑옷바 수정, 인벤토리 수정",
+        "download": "https://www.dropbox.com/s/jllmzbq6fblg9vn/3.3%20HD%20Shader%20%5BGRstory%5D.zip?dl=1",
+        "tag": {
+            "latestVersion": false,
+            "versionCode": "β"
+        }
+    }
 ]
