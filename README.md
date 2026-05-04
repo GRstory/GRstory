@@ -1,3 +1,3 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=GRstory%27s%20Github&fontSize=90&animation=fadeIn&fontAlignY=38"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=GRstory%27s%20Github&fontSize=40&animation=fadeIn&fontAlignY=38"/>
 </p>
