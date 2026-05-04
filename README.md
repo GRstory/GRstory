@@ -1,12 +1,7 @@
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=GRstory%27s%20Github&fontSize=40&animation=fadeIn&fontAlignY=38"/>
-</p>
+<h2>GRstory Github</h2>
 
-<br>
-<br>
 
-<h3 align="center">Paper</h3>
-
+<h3 align="center">📜 Published Papers</h3>
 <p align="center">
     <a href="https://www.techscience.com/cmc/v86n2/64777">SCIE : Research on Automated Game QA Reporting Based on Natural Language Captions | 제 1저자</a>
     <br>
@@ -17,7 +12,6 @@
 <br>
 
 <h3 align="center">🛠 Tech Stacks</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
@@ -49,8 +43,7 @@
 <br>
 <br>
 
-<h3 align="center">Games</h3>
-
+<h3 align="center">🎮 Developed Games</h3>
 <h4 align="center">Steam Games</h4>
 <p align="center">
     <a href="https://store.steampowered.com/app/4267610/Beat__Beasties/">
