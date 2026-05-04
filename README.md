@@ -8,10 +8,9 @@
 <h3 align="center">Paper</h3>
 
 <p align="center">
-    [SCIE : Research on Automated Game QA Reporting Based on Natural Language Captions]
-    (https://www.techscience.com/cmc/v86n2/64777)
-    [KCI: 감정 시각화 기반 정서 지원 시스템 ‘하얀 고래 마음 일기’ 구현]
-    (https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12431886)
+    <a href="https://www.techscience.com/cmc/v86n2/64777">SCIE : Research on Automated Game QA Reporting Based on Natural Language Captions | 제 1저자</a>
+    <br>
+    <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12431886">KCI: 감정 시각화 기반 정서 지원 시스템 ‘하얀 고래 마음 일기’ 구현 | 공저자, 제 2저자</a>
 </p>
 
 <br>
@@ -36,3 +35,54 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
+
+<br>
+<br>
+
+<h3 align="center">Games</h3>
+
+<h4 align="center">Steam Games</h4>
+<p align="center">
+    <a href="https://store.steampowered.com/app/4267610/Beat__Beasties/">
+        <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4267610/cf4060bea2de244458692f04fff082a2fe65b304/header.jpg?t=1777530855" alt="Beat & Beasties" width="300">
+    </a>
+    <a href="https://store.steampowered.com/app/4157070/QPopGirl/">
+        <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157070/124d6194c22a769a8bf9354abba371ac0dd56d35/header_koreana.jpg?t=1773721540" alt="Q Pop Girl" width="300">
+    </a>
+</p>
+
+<br>
+
+<h4 align="center">Github projects</h4>
+<p align="center">
+    <a href="https://github.com/GRstory/ProjectQ2">
+        <img src="https://brand.github.com/_next/static/media/logo-03.cc5e5332.png" alt="Unity NGO Multiplay framework" width="250">
+    </a>
+    <a href="https://github.com/GRstory/SquarePuzzle">
+        <img src="https://brand.github.com/_next/static/media/logo-03.cc5e5332.png" alt="Square Slide Puzzle" width="250">
+    </a>
+</p>
+
+<br>
+
+<h4 align="center">GXG 2025 Demo</h4>
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=A9vi1ZMG6Lo">
+        <img src="https://img.youtube.com/vi/A9vi1ZMG6Lo/maxresdefault.jpg" alt="Project Q 1" width="250">
+    </a>
+    <a href="https://www.youtube.com/watch?v=iQJOJff7Adc">
+        <img src="https://img.youtube.com/vi/iQJOJff7Adc/maxresdefault.jpg" alt="Project Q 2" width="250">
+    </a>
+</p>
+
+<br>
+
+<h4 align="center">University Graduation Projects</h4>
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=zwXTvJ14boQ">
+        <img src="https://img.youtube.com/vi/zwXTvJ14boQ/maxresdefault.jpg" alt="Nocturne" width="250">
+    </a>
+    <a href="https://www.youtube.com/watch?v=1smbyieUqCU">
+        <img src="https://img.youtube.com/vi/1smbyieUqCU/maxresdefault.jpg" alt="Stargaze" width="250">
+    </a>
+</p>
