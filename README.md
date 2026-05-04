@@ -12,7 +12,8 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-        ![Static Badge](https://img.shields.io/badge/Unity%2C%20?style=flat&logo=Unity&logoColor=White&label=Unity%20Engine)
+        <img alt="Static Badge" src="https://img.shields.io/badge/Unity%2C%20?style=flat&logo=Unity&logoColor=White&label=Unity%20Engine">
+
           <br/></div>
     </div>
     <div style="text-align: left;">
