@@ -56,10 +56,10 @@
 <h4 align="center">Github projects</h4>
 <p align="center">
     <a href="https://github.com/GRstory/ProjectQ2">
-        <img src="https://brand.github.com/_next/static/media/logo-03.cc5e5332.png" alt="Unity NGO Multiplay framework" width="250">
+        <img src="https://github.com/user-attachments/assets/9a27a9bc-8cd4-4731-be5d-cae0e05e87df" alt="Unity NGO Multiplay framework" width="250">
     </a>
     <a href="https://github.com/GRstory/SquarePuzzle">
-        <img src="https://brand.github.com/_next/static/media/logo-03.cc5e5332.png" alt="Square Slide Puzzle" width="250">
+        <img src="https://github.com/user-attachments/assets/9b0dad71-36c8-4520-bbec-8aa9d0229e49" alt="Square Slide Puzzle" width="250">
     </a>
 </p>
 
