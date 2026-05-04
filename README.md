@@ -1,5 +1,15 @@
-<h2>GRstory Github</h2>
+<h2 align="center">김준명 | GRstory</h2>
+<p align="center">
+    게임 클라이언트 프로그래머
+</p>
 
+
+<h3 align="center">Education</h3>
+<p align="center">
+    홍익대학교 일반대학원 게임학과 석사 재학
+    <br>
+    세명대학교 컴퓨터학부 학사 졸업
+</p>
 
 <h3 align="center">📜 Published Papers</h3>
 <p align="center">
@@ -8,7 +18,6 @@
     <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12431886">KCI: 감정 시각화 기반 정서 지원 시스템 ‘하얀 고래 마음 일기’ 구현 | 공저자, 제 2저자</a>
 </p>
 
-<br>
 <br>
 
 <h3 align="center">🛠 Tech Stacks</h3>
@@ -41,7 +50,6 @@
 </p>
 
 <br>
-<br>
 
 <h3 align="center">🎮 Developed Games</h3>
 <h4 align="center">Steam Games</h4>
@@ -54,8 +62,6 @@
     </a>
 </p>
 
-<br>
-
 <h4 align="center">Github projects</h4>
 <p align="center">
     <a href="https://github.com/GRstory/ProjectQ2">
@@ -66,8 +72,6 @@
     </a>
 </p>
 
-<br>
-
 <h4 align="center">GXG 2025 Demo</h4>
 <p align="center">
     <a href="https://www.youtube.com/watch?v=A9vi1ZMG6Lo">
@@ -77,8 +81,6 @@
         <img src="https://img.youtube.com/vi/iQJOJff7Adc/maxresdefault.jpg" alt="Project Q 2" width="250">
     </a>
 </p>
-
-<br>
 
 <h4 align="center">University Graduation Projects</h4>
 <p align="center">
